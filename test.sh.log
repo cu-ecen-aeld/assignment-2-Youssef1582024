@@ -410,3 +410,256 @@ File created successfully at /tmp/aeld-data/GxysVlkb9ADnG9Xy1FvsOPrpkWZIu6hL/You
 The number of files are 10 and the number of matching lines are 10
 success
 Test of assignment assignment1 complete with success
+Running test with user youssef
+CMake Error: The current CMakeCache.txt directory /home/youssef/Desktop/assignment-1-Youssef1582024/build/CMakeCache.txt is different than the directory /home/youssef/Documents/assignment-1-Youssef1582024/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source "/home/youssef/Desktop/assignment-1-Youssef1582024/CMakeLists.txt" does not match the source "/home/youssef/Documents/assignment-1-Youssef1582024/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+/bin/sh: 1: cd: can't cd to /home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest
+make[2]: *** [assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make:213: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make[1]: *** [CMakeFiles/Makefile2:150: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make: *** [Makefile:136: clean] Error 2
+/bin/sh: 1: cd: can't cd to /home/youssef/Documents/assignment-1-Youssef1582024/build
+make[2]: *** [assignment-autotest/Unity/src/CMakeFiles/unity.dir/build.make:97: assignment-autotest/Unity/src/CMakeFiles/unity.dir/depend] Error 2
+make[1]: *** [CMakeFiles/Makefile2:158: assignment-autotest/Unity/src/CMakeFiles/unity.dir/all] Error 2
+make: *** [Makefile:130: all] Error 2
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:6:test_hello:INFO: Hello!  Your unity setup is working!
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:4:test_hello:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c:9:test_assignment_validate:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Read Youssef1582024 from conf/username.txt
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/../student-test/assignment1/Test_validate_username.c:9:test_validate_my_username:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Executing assignment test script
+~/Desktop/assignment-1-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-1-Youssef1582024
+~/Desktop/assignment-1-Youssef1582024/finder-app ~/Desktop/assignment-1-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-1-Youssef1582024
+Error: Missing arguments. Please provide both file path and content.
+Error: Missing arguments. Please provide both file path and content.
+Using default value AELD_IS_FUN for string to write
+Using default value 10 for number of files to write
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data
+Creating directory path: /tmp/aeld-data
+File created successfully at /tmp/aeld-data/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB
+Creating directory path: /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/8Fg5NKthgabTpMcx5k99n24v65yGlgGB/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Test of assignment assignment1 complete with success
+Running test with user youssef
+CMake Error: The current CMakeCache.txt directory /home/youssef/Desktop/assignment-2-Youssef1582024/build/CMakeCache.txt is different than the directory /home/youssef/Desktop/aesd-assignments/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source "/home/youssef/Desktop/assignment-2-Youssef1582024/CMakeLists.txt" does not match the source "/home/youssef/Desktop/aesd-assignments/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+/bin/sh: 1: cd: can't cd to /home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest
+make[2]: *** [assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make:213: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make[1]: *** [CMakeFiles/Makefile2:150: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make: *** [Makefile:136: clean] Error 2
+CMake Error: The source directory "/home/youssef/Documents/assignment-1-Youssef1582024" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+make: *** [Makefile:210: cmake_check_build_system] Error 1
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:6:test_hello:INFO: Hello!  Your unity setup is working!
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:4:test_hello:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c:9:test_assignment_validate:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Read Youssef1582024 from conf/username.txt
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/../student-test/assignment1/Test_validate_username.c:9:test_validate_my_username:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Executing assignment test script
+~/Desktop/assignment-2-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-2-Youssef1582024
+~/Desktop/assignment-2-Youssef1582024/finder-app ~/Desktop/assignment-2-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-2-Youssef1582024
+Error: Missing arguments. Please provide both file path and content.
+Error: Missing arguments. Please provide both file path and content.
+Using default value AELD_IS_FUN for string to write
+Using default value 10 for number of files to write
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data
+Creating directory path: /tmp/aeld-data
+File created successfully at /tmp/aeld-data/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC
+Creating directory path: /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Y2kADPW8e11T3BnWYgkK0wSgP97pNEPC/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Test of assignment assignment1 complete with success
+Running test with user youssef
+CMake Error: The current CMakeCache.txt directory /home/youssef/Desktop/assignment-2-Youssef1582024/build/CMakeCache.txt is different than the directory /home/youssef/Desktop/aesd-assignments/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source "/home/youssef/Desktop/assignment-2-Youssef1582024/CMakeLists.txt" does not match the source "/home/youssef/Desktop/aesd-assignments/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+/bin/sh: 1: cd: can't cd to /home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest
+make[2]: *** [assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make:213: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make[1]: *** [CMakeFiles/Makefile2:150: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make: *** [Makefile:136: clean] Error 2
+CMake Error: The source directory "/home/youssef/Documents/assignment-1-Youssef1582024" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+make: *** [Makefile:210: cmake_check_build_system] Error 1
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:6:test_hello:INFO: Hello!  Your unity setup is working!
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:4:test_hello:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c:9:test_assignment_validate:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Read Youssef1582024 from conf/username.txt
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/../student-test/assignment1/Test_validate_username.c:9:test_validate_my_username:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Executing assignment test script
+~/Desktop/assignment-2-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-2-Youssef1582024
+~/Desktop/assignment-2-Youssef1582024/finder-app ~/Desktop/assignment-2-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-2-Youssef1582024
+Error: Missing arguments. Please provide both file path and content.
+Error: Missing arguments. Please provide both file path and content.
+Using default value AELD_IS_FUN for string to write
+Using default value 10 for number of files to write
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data
+Creating directory path: /tmp/aeld-data
+File created successfully at /tmp/aeld-data/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF
+Creating directory path: /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/F9pWncDWNMSvAFQ2cEXOGo0FdMygjaxF/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Test of assignment assignment1 complete with success
+Running test with user youssef
+CMake Error: The current CMakeCache.txt directory /home/youssef/Desktop/assignment-2-Youssef1582024/build/CMakeCache.txt is different than the directory /home/youssef/Desktop/aesd-assignments/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source "/home/youssef/Desktop/assignment-2-Youssef1582024/CMakeLists.txt" does not match the source "/home/youssef/Desktop/aesd-assignments/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+/bin/sh: 1: cd: can't cd to /home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest
+make[2]: *** [assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make:213: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make[1]: *** [CMakeFiles/Makefile2:150: assignment-autotest/CMakeFiles/assignment-autotest.dir/clean] Error 2
+make: *** [Makefile:136: clean] Error 2
+CMake Error: The source directory "/home/youssef/Documents/assignment-1-Youssef1582024" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+make: *** [Makefile:210: cmake_check_build_system] Error 1
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:6:test_hello:INFO: Hello!  Your unity setup is working!
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:4:test_hello:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c:9:test_assignment_validate:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Read Youssef1582024 from conf/username.txt
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/../student-test/assignment1/Test_validate_username.c:9:test_validate_my_username:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Executing assignment test script
+~/Desktop/assignment-2-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-2-Youssef1582024
+~/Desktop/assignment-2-Youssef1582024/finder-app ~/Desktop/assignment-2-Youssef1582024/assignment-autotest/test/assignment1 ~/Desktop/assignment-2-Youssef1582024
+Error: Missing arguments. Please provide both file path and content.
+Error: Missing arguments. Please provide both file path and content.
+Using default value AELD_IS_FUN for string to write
+Using default value 10 for number of files to write
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data
+Creating directory path: /tmp/aeld-data
+File created successfully at /tmp/aeld-data/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Writing 10 files containing string AELD_IS_FUN to /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8
+Creating directory path: /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820241.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820242.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820243.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820244.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820245.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820246.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820247.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820248.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef15820249.txt with content: AELD_IS_FUN
+File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/Youssef158202410.txt with content: AELD_IS_FUN
+The number of files are 10 and the number of matching lines are 10
+success
+Test of assignment assignment1 complete with success
